@@ -11,4 +11,4 @@ Venus2602/Venus2602 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ### Spotify Playing 🎧
-[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="Venus Spotify" width="350" />](https://open.spotify.com/playlist/6NpV7t9aU8AnncX4hkXTSC)
+[<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0f5yQttJS5nNxRAleF4kZO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>](https://open.spotify.com/playlist/6NpV7t9aU8AnncX4hkXTSC)

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Venus2602
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning ![104453_html5_html_5_icon],CSS,Javascript,PHP,Autoit,..
+- 🌱 I’m currently learning :HTML,CSS,Javascript,PHP,Autoit,..
 - ✨ Ask me about everything.
 - 📫 How to reach me: https://www.facebook.com/VenusPDD/
 

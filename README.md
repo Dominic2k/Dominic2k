@@ -10,4 +10,15 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Spotify Playing 🎧 By J2TEAMNNL
 [<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
+Time work:
+
+
+
+https://wakatime.com/badge/github/Venus2602/Venus2602.svg
+[![wakatime](https://wakatime.com/badge/github/Venus2602/Venus2602.svg)](https://wakatime.com/badge/github/Venus2602/Venus2602)
+!https://wakatime.com/badge/github/Venus2602/Venus2602.svg!:https://wakatime.com/badge/github/Venus2602/Venus2602
 <a href="https://wakatime.com/badge/github/Venus2602/Venus2602"><img src="https://wakatime.com/badge/github/Venus2602/Venus2602.svg" alt="wakatime"></a>
+image:https://wakatime.com/badge/github/Venus2602/Venus2602.svg["wakatime", link="https://wakatime.com/badge/github/Venus2602/Venus2602"]
+.. image:: https://wakatime.com/badge/github/Venus2602/Venus2602.svg
+    :target: https://wakatime.com/badge/github/Venus2602/Venus2602
+    =for html <a href="https://wakatime.com/badge/github/Venus2602/Venus2602"><img src="https://wakatime.com/badge/github/Venus2602/Venus2602.svg"></a>

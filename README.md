@@ -3,6 +3,8 @@
 !![image](https://user-images.githubusercontent.com/91515103/194339500-b97403e5-c730-4841-85b4-f82e9c357aa6.png)![image](https://user-images.githubusercontent.com/91515103/195113793-0411f162-ca1c-4383-bcc2-10e8a876e26a.png)...
 - ✨ Ask me about everything.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/VenusPDD/) - [Instagram](https://www.instagram.com/VenusPDD/) - [Tiktok](https://www.tiktok.com/@vie_venus) - [Twitter](https://twitter.com/VenusPDD).
+- Time work:
+<a href="https://wakatime.com/badge/github/Venus2602/Venus2602"><img src="https://wakatime.com/badge/github/Venus2602/Venus2602.svg" alt="wakatime"></a>
 
 <!---
 Venus2602/Venus2602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,5 +12,3 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Spotify Playing 🎧 By J2TEAMNNL
 [<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
-Time work:
-<a href="https://wakatime.com/badge/github/Venus2602/Venus2602"><img src="https://wakatime.com/badge/github/Venus2602/Venus2602.svg" alt="wakatime"></a>

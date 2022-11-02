@@ -5,7 +5,6 @@
 - 📫 How to reach me: [Facebook](https://www.facebook.com/VenusPDD/) - [Instagram](https://www.instagram.com/VenusPDD/) - [Tiktok](https://www.tiktok.com/@vie_venus) - [Twitter](https://twitter.com/VenusPDD).
 - Time work:
 <a href="https://wakatime.com/badge/github/Venus2602/Venus2602"><img src="https://wakatime.com/badge/github/Venus2602/Venus2602.svg" alt="wakatime"></a>
-<a href="https://wakatime.com/badge/user/2fb66011-229b-4d77-bc6a-b330ab821d55/project/ed514480-543c-457b-9b83-6bc0973d5267"><img src="https://wakatime.com/badge/user/2fb66011-229b-4d77-bc6a-b330ab821d55/project/ed514480-543c-457b-9b83-6bc0973d5267.svg" alt="wakatime"></a>
 <!---
 Venus2602/Venus2602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

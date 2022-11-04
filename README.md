@@ -11,9 +11,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Spotify Playing 🎧 
 [<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
-- uses: venus2602/venus2602@master
-        with:
-          WAKATIME_API_KEY: ${{ 5077c81f-7558-4ee1-b54c-ce70cd13cb42 }}
-          GH_TOKEN: ${{ secrets.Venus2602 }}
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
+

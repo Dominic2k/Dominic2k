@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Venus2602 👀 A developer love music
+- 👋 Hi, I’m @Venus2602 👀 A developer love music![image](https://user-images.githubusercontent.com/91515103/200225098-08ba3d4f-92ef-4b2d-8aae-bfa2080c8974.png)
+
 - 🌱 I’m currently learning everything!
 - ✨ Ask me about everything.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/VenusPDD/) - [Instagram](https://www.instagram.com/VenusPDD/) - [Tiktok](https://www.tiktok.com/@vie_venus) - [Twitter](https://twitter.com/VenusPDD).

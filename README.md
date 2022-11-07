@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning everything!
 - ✨ Ask me about everything.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/VenusPDD/) - [Instagram](https://www.instagram.com/VenusPDD/) - [Tiktok](https://www.tiktok.com/@vie_venus) - [Twitter](https://twitter.com/VenusPDD).
-- Time coding:
-- ![Code Time]{<img src="https://wakatime.com/badge/user/2fb66011-229b-4d77-bc6a-b330ab821d55.svg" alt="wakatime" />}[https://wakatime.com/@2fb66011-229b-4d77-bc6a-b330ab821d55]
+- [![Time code](https://wakatime.com/badge/user/2fb66011-229b-4d77-bc6a-b330ab821d55.svg)](https://wakatime.com/@2fb66011-229b-4d77-bc6a-b330ab821d55)
 ### Spotify Playing 🎧 
 [<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
 ### Languages and Tools:

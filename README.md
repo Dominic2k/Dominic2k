@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Venus2602 👀
+- 👋 Hi, I’m @Venus2602 👀 A developer love music
 - 🌱 I’m currently learning everything!
 - ✨ Ask me about everything.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/VenusPDD/) - [Instagram](https://www.instagram.com/VenusPDD/) - [Tiktok](https://www.tiktok.com/@vie_venus) - [Twitter](https://twitter.com/VenusPDD).
@@ -7,8 +7,8 @@
 <!---
 Venus2602/Venus2602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-# Hi there, I'm Venus 👋 
-## A developer love music!!
+### Spotify Playing 🎧 
+[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -32,6 +32,4 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 --->
-### Spotify Playing 🎧 
-[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
 

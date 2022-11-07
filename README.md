@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Venus2602 👀
-- 🌱 I’m currently learning :![image](https://user-images.githubusercontent.com/91515103/194340305-a3a076cf-7a16-4582-98d0-c17fff0d715d.png),![image](https://user-images.githubusercontent.com/91515103/194340217-069785e6-c160-4ac2-81a4-55ac34728e35.png),![image](https://user-images.githubusercontent.com/91515103/194340107-70c03a63-f26e-4609-8e27-c066aba5c5ac.png),![image](https://user-images.githubusercontent.com/91515103/194339988-e996cea9-9e87-47a1-a753-02d0d3f1df25.png)),![image](https://user-images.githubusercontent.com/91515103/194339814-9d9244b5-61b9-4c50-8a76-8fec41e4bc55.png)
-!![image](https://user-images.githubusercontent.com/91515103/194339500-b97403e5-c730-4841-85b4-f82e9c357aa6.png)![image](https://user-images.githubusercontent.com/91515103/195113793-0411f162-ca1c-4383-bcc2-10e8a876e26a.png)...
+- 🌱 I’m currently learning everything!
 - ✨ Ask me about everything.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/VenusPDD/) - [Instagram](https://www.instagram.com/VenusPDD/) - [Tiktok](https://www.tiktok.com/@vie_venus) - [Twitter](https://twitter.com/VenusPDD).
 - Time coding:
@@ -8,6 +7,28 @@
 <!---
 Venus2602/Venus2602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+# Hi there, I'm Venus 👋 
+## A developer love music!!
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
+[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+
+<br />
+<br />
 --->
 ### Spotify Playing 🎧 
 [<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)

@@ -4,7 +4,6 @@
 - 📫 How to reach me: [Facebook](https://www.facebook.com/VenusPDD/) - [Instagram](https://www.instagram.com/VenusPDD/) - [Tiktok](https://www.tiktok.com/@vie_venus) - [Twitter](https://twitter.com/VenusPDD).
 - Time coding:
 - <a href="https://wakatime.com/@2fb66011-229b-4d77-bc6a-b330ab821d55"><img src="https://wakatime.com/badge/user/2fb66011-229b-4d77-bc6a-b330ab821d55.svg" alt="Total time coded since Oct 11 2022" /></a>
-<!---
 Venus2602/Venus2602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ### Spotify Playing 🎧 
@@ -29,7 +28,4 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 
-<br />
-<br />
---->
 

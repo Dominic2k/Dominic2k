@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything!
 - ✨ Ask me about everything.
-- 📫 How to reach me: [Facebook](https://www.facebook.com/VenusPDD/) - [Instagram](https://www.instagram.com/VenusPDD/) - [Tiktok](https://www.tiktok.com/@vie_venus) - [Twitter](https://twitter.com/VenusPDD).
+- 📫 How to reach me: [Facebook](https://www.facebook.com/VenusPDD/) - [Instagram](https://www.instagram.com/VenusPDD/) - [Tiktok](https://www.tiktok.com/@venuspdd) - [Twitter](https://twitter.com/VenusPDD).
 - [!Time code](https://wakatime.com/badge/user/2fb66011-229b-4d77-bc6a-b330ab821d55.svg)
 - <a href="https://wakatime.com/@2fb66011-229b-4d77-bc6a-b330ab821d55"><img src="https://wakatime.com/badge/user/2fb66011-229b-4d77-bc6a-b330ab821d55.svg" alt="Total time coded since Oct 11 2022" /></a>
 ### Spotify Playing 🎧 

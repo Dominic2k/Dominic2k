@@ -5,6 +5,7 @@
 - 📫 How to reach me: [Facebook](https://www.facebook.com/VenusPDD/) - [Instagram](https://www.instagram.com/VenusPDD/) - [Tiktok](https://www.tiktok.com/@venuspdd) - [Twitter](https://twitter.com/VenusPDD).
 - [!Time code](https://wakatime.com/badge/user/2fb66011-229b-4d77-bc6a-b330ab821d55.svg)
 - <a href="https://wakatime.com/@2fb66011-229b-4d77-bc6a-b330ab821d55"><img src="https://wakatime.com/badge/user/2fb66011-229b-4d77-bc6a-b330ab821d55.svg" alt="Total time coded since Oct 11 2022" /></a>
+- <figure><embed src="https://wakatime.com/share/@VenusPDD/4e6f79ad-a80f-4ae3-8e5f-93ca9167f264.svg"></embed></figure>
 ### Spotify Playing 🎧 
 [<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
 ### Languages and Tools:
@@ -18,4 +19,3 @@
 <img align="left" alt="Sublime text" width="26px" src="https://avatars3.githubusercontent.com/u/684879?s=400&amp;v=4" style="padding-right:10px;" />
 <img align="left" alt="Sublime text" width="26px" src="https://lh4.googleusercontent.com/-6gf_yd529XI/T4YAnmVXdZI/AAAAAAAAAMM/ynE72aTC8kA/s256/AutoIt%2520Icon%2520Template.png" style="padding-right:10px;" />
 
-<figure><embed src="https://wakatime.com/share/@VenusPDD/4e6f79ad-a80f-4ae3-8e5f-93ca9167f264.svg"></embed></figure>

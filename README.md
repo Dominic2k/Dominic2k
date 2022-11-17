@@ -17,3 +17,5 @@
 <img align="left" alt="MS SQL" width="26px" src="https://img.icons8.com/color/480/microsoft-sql-server.png" style="padding-right:10px;" />
 <img align="left" alt="Sublime text" width="26px" src="https://avatars3.githubusercontent.com/u/684879?s=400&amp;v=4" style="padding-right:10px;" />
 <img align="left" alt="Sublime text" width="26px" src="https://lh4.googleusercontent.com/-6gf_yd529XI/T4YAnmVXdZI/AAAAAAAAAMM/ynE72aTC8kA/s256/AutoIt%2520Icon%2520Template.png" style="padding-right:10px;" />
+
+<figure><embed src="https://wakatime.com/share/@VenusPDD/4e6f79ad-a80f-4ae3-8e5f-93ca9167f264.svg"></embed></figure>

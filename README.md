@@ -19,7 +19,7 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](https://wakatime.com/badge/user/d813c51e-191a-4e98-9d0f-4b174aa7e0cf.svg)](https://wakatime.com/@d813c51e-191a-4e98-9d0f-4b174aa7e0cf)
+![Code Time](https://wakatime.com/badge/user/d813c51e-191a-4e98-9d0f-4b174aa7e0cf.svg)]
 
 **🐱 My GitHub Data** 
 

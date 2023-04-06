@@ -16,5 +16,36 @@
 <img align="left" alt="Autoit" width="26px" src="https://lh4.googleusercontent.com/-6gf_yd529XI/T4YAnmVXdZI/AAAAAAAAAMM/ynE72aTC8kA/s256/AutoIt%2520Icon%2520Template.png" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" style="padding-right:10px;" />
 <a href=#><img src="contributions.svg"></a>
+
+### Development Stats
 <!--START_SECTION:waka-->
+![Code Time](https://wakatime.com/badge/user/d813c51e-191a-4e98-9d0f-4b174aa7e0cf.svg)](https://wakatime.com/@d813c51e-191a-4e98-9d0f-4b174aa7e0cf)
+
+**🐱 My GitHub Data** 
+
+> 📦 21.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 43 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Tuesday                  214 commits         ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+Wednesday                85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Thursday                 184 commits         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+Friday                   105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Saturday                 86 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Sunday                   116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+```
+
+
+
+ Last Updated on 06/04/2023 08:38:23 UTC
 <!--END_SECTION:waka-->

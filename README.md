@@ -16,3 +16,5 @@
 <img align="left" alt="Autoit" width="26px" src="https://lh4.googleusercontent.com/-6gf_yd529XI/T4YAnmVXdZI/AAAAAAAAAMM/ynE72aTC8kA/s256/AutoIt%2520Icon%2520Template.png" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" style="padding-right:10px;" />
 <a href=#><img src="contributions.svg"></a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

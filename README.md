@@ -16,5 +16,12 @@
 <img align="left" alt="Autoit" width="26px" src="https://lh4.googleusercontent.com/-6gf_yd529XI/T4YAnmVXdZI/AAAAAAAAAMM/ynE72aTC8kA/s256/AutoIt%2520Icon%2520Template.png" style="padding-right:10px;" />
 <img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" style="padding-right:10px;" />
 <a href=#><img src="contributions.svg"></a>
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=VenusJss&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VenusJss&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VenusJss&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VenusJss&theme=dark" alt="GitHub Streak" /></a>
+
+
 

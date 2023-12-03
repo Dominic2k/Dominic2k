@@ -17,3 +17,4 @@
 <img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" style="padding-right:10px;" />
 <a href=#><img src="contributions.svg"></a>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VenusJss&theme=dark" alt="GitHub Streak" /></a>
+{{ template "hourly-table" $.TodayWeather.HourlyWeathers }}

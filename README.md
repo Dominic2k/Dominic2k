@@ -22,7 +22,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VenusJss&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VenusJss&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 # 📊Time coding last 30 days:
-Total since FEB 22 2023: <img src="https://wakatime.com/badge/user/d813c51e-191a-4e98-9d0f-4b174aa7e0cf.svg" alt="Total time coded since Feb 22 2023" /></a> <br/>
 <img align="left" width="400px" src="https://wakatime.com/share/@VenusPDD/0fe7d4e6-95a9-422b-8b02-cca7c7f63bf5.png" /></a>
 
 

@@ -21,7 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=VenusJss&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VenusJss&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VenusJss&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<a href="https://wakatime.com"><img width="200px" src="https://wakatime.com/share/@VenusPDD/0fe7d4e6-95a9-422b-8b02-cca7c7f63bf5.png" /></a>
+<a href="https://wakatime.com"><img align="center" width="400px" src="https://wakatime.com/share/@VenusPDD/0fe7d4e6-95a9-422b-8b02-cca7c7f63bf5.png" /></a>
 
 
 

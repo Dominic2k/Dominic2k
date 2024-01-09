@@ -17,10 +17,11 @@
 <img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" style="padding-right:10px;" />
 <a href=#><img src="contributions.svg"></a>
 
-# 📊GitHub Stats :
+# 📊GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VenusJss&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VenusJss&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VenusJss&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+# 📊Time coding last 30 days:
 <a href="https://wakatime.com"><img align="left" width="400px" src="https://wakatime.com/share/@VenusPDD/0fe7d4e6-95a9-422b-8b02-cca7c7f63bf5.png" /></a>
 
 

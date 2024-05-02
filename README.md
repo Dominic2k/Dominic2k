@@ -21,7 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VenusJss&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 # 📊Time coding last 30 days:
 <img align="left" width="400px" src="https://wakatime.com/share/@VenusPDD/0fe7d4e6-95a9-422b-8b02-cca7c7f63bf5.png" /></a>
-<figure><embed src="https://wakatime.com/share/@VenusPDD/f55cbae0-a9e7-4829-b9b8-2bc5a8ef8b79.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@VenusPDD/6e57c5cd-4a79-47e8-ac64-736c400ffa45.png" /></a>
 
 
 

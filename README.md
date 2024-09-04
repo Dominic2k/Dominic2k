@@ -22,7 +22,7 @@
 # 📊Time coding last 30 days:
 <img align="left" width="400px" src="https://wakatime.com/share/@Dimonic2kJs/d214659d-71e1-4b71-8406-e537f5be261e.png" />
 <img align="left" width="400px" src="https://wakatime.com/share/@Dimonic2kJs/5ac1667d-7073-4a5b-83df-10d36d855938.png" />
-<img align="center" width="800px" src="https://wakatime.com/share/@Dimonic2kJs/bf1aae87-0bc8-43ed-8ade-6312780c686b.png" />
+<img align="center" width="600px" src="https://wakatime.com/share/@Dimonic2kJs/bf1aae87-0bc8-43ed-8ade-6312780c686b.png" />
 
 
 

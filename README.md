@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dominic2k 👀![image](https://user-images.githubusercontent.com/91515103/200225098-08ba3d4f-92ef-4b2d-8aae-bfa2080c8974.png)
 - 🌱 I’m currently learning everything!
 - ✨ Ask me about everything.
-- 📫 How to reach me: [Facebook](https://web.facebook.com/Dominic2kJs/)) - [Twitter](https://x.com/Dominic2kJs)
+- 📫 How to reach me: [Facebook](https://web.facebook.com/Dominic2kJs/) - [Twitter](https://x.com/Dominic2kJs)
 ### Spotify Playing 🎧 
 [<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
 ### Languages and Tools:

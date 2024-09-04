@@ -20,8 +20,8 @@
 # 📊GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VenusJss&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 # 📊Time coding last 30 days:
-<img align="left" width="400px" src="https://wakatime.com/share/@VenusPDD/0fe7d4e6-95a9-422b-8b02-cca7c7f63bf5.png" /></a>
-<img align="left" width="400px" src="https://wakatime.com/share/@VenusPDD/17adbee1-139e-438a-8792-95863f788e51.png" /></a>
+<img align="left" width="400px" src="https://wakatime.com/share/@Dimonic2kJs/d214659d-71e1-4b71-8406-e537f5be261e.png" />
+<img align="left" width="400px" src="https://wakatime.com/share/@Dimonic2kJs/5ac1667d-7073-4a5b-83df-10d36d855938.png" />
 
 
 

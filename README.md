@@ -21,10 +21,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VenusJss&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 # 📊Time coding last 30 days:
 <img align="left" width="400px" src="https://wakatime.com/share/@Dimonic2kJs/9387e7b3-b222-4280-a3e6-0191f912d093.png" />
-
-<img align="left" width="400px" src="https://wakatime.com/share/@Dimonic2kJs/5ac1667d-7073-4a5b-83df-10d36d855938.png" />
+<img align="left" width="400px" src="https://wakatime.com/share/@Dimonic2kJs/3a68f3db-5cfd-4c0f-b732-05fcc18666fd.png" />
 <br>
-<img align="center" width="820px" src="https://wakatime.com/share/@Dimonic2kJs/bf1aae87-0bc8-43ed-8ade-6312780c686b.png" />
+<img align="center" width="820px" src="https://wakatime.com/share/@Dimonic2kJs/4e415fc8-c70b-48d1-8ef9-006f8d7208c8.png" />
 
 
 

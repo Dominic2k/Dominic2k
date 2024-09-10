@@ -11,8 +11,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominic2k&show_icons=true&locale=en&layout=compact" alt="dominic2k" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dominic2k&show_icons=true&locale=en" alt="dominic2k" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dominic2k&" alt="dominic2k" /></p>
+
 # 📊GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dominic2k&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
 # 📊Time coding last 30 days:
 <img align="center" width="820px" src="https://wakatime.com/share/@Dimonic2kJs/4e415fc8-c70b-48d1-8ef9-006f8d7208c8.png" />
 <img align="left" width="400px" src="https://wakatime.com/share/@Dimonic2kJs/9387e7b3-b222-4280-a3e6-0191f912d093.png" />

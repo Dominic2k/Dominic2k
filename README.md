@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<p>
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F71E&width=435&lines=Welcome+to+Pham+Duc+Dat+profile" alt="Typing SVG" /></a>
 </p>
 
@@ -106,8 +106,8 @@
 
 # 📊Time coding last 30 days:
 <img align="center" width="820px" src="https://wakatime.com/share/@Dimonic2kJs/4e415fc8-c70b-48d1-8ef9-006f8d7208c8.png" />
-<img align="left" width="400px" src="https://wakatime.com/share/@Dimonic2kJs/9387e7b3-b222-4280-a3e6-0191f912d093.png" />
-<img align="left" width="400px" src="https://wakatime.com/share/@Dimonic2kJs/3a68f3db-5cfd-4c0f-b732-05fcc18666fd.png" />
+<img align="center" width="400px" src="https://wakatime.com/share/@Dimonic2kJs/9387e7b3-b222-4280-a3e6-0191f912d093.png" />
+<img align="center" width="400px" src="https://wakatime.com/share/@Dimonic2kJs/3a68f3db-5cfd-4c0f-b732-05fcc18666fd.png" />
 
 
 

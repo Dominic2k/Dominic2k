@@ -94,7 +94,7 @@
     </td>
  </tr>
 </table>
-<br>
+<br></br>
 ## Contacts
   <div align="center"> 
   <a href="https://t.me/Dominic2kjs" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
@@ -105,7 +105,7 @@
 
 # 📊Time coding last 30 days:
 <img align="center" width="820px" src="https://wakatime.com/share/@Dimonic2kJs/4e415fc8-c70b-48d1-8ef9-006f8d7208c8.png" />
-<br>
+<br></br>
 <img align="center" width="400px" src="https://wakatime.com/share/@Dimonic2kJs/9387e7b3-b222-4280-a3e6-0191f912d093.png" />
 <img align="center" width="400px" src="https://wakatime.com/share/@Dimonic2kJs/3a68f3db-5cfd-4c0f-b732-05fcc18666fd.png" />
 

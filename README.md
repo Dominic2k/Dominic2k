@@ -8,8 +8,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F71E&width=435&lines=Hi+Welcome+to+Pham+Duc+Dat's+profile;From+Passerelles+Numériques+Vietnam" alt="Typing SVG" /></a>
 </p>
 
-<div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="center" alt="A professional animation coder gif"/>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dominic2k&label=Profile%20views&color=0e75b6&style=flat" alt="dominic2k" /> </p>

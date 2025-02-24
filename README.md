@@ -82,7 +82,7 @@
   
 ## Contacts
   <div align="center"> 
-  <a href="https://t.me/Dominic2kjs" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+  <a href="https://t.me/Dominic2k5" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
   &nbsp;&nbsp;
 
 # 📊GitHub Stats:

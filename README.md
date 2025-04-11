@@ -5,7 +5,7 @@
 </h1>
 
 <details open>
-<summary align="center"><h2><img alt="GIF" src="./Image/trophy.gif" width="25px"> My various diplomas, certificates </h2></summary>
+<summary align="center"><h2>My various diplomas, certificates </h2></summary>
   <div align="center">
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20F7W4V2VVFQVC-1.png" target="_blank"> <img height ="150px"  src="images/Coursera F7W4V2VVFQVC-1.png" /></a>
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%204DZN7QFRQHCG-1.png" target="_blank"> <img height ="150px"  src="images/Coursera 4DZN7QFRQHCG-1.png" /></a>

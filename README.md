@@ -8,6 +8,7 @@
 </div>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" alt="A professional animation coder gif"/>
+  <img align="right" alt="GIF" src="images/ai.gif" width=35% height=45%/>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dominic2k&label=Profile%20views&color=0e75b6&style=flat" alt="dominic2k" /> </p>

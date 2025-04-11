@@ -9,6 +9,12 @@
   <div align="center">
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20F7W4V2VVFQVC-1.png" target="_blank"> <img height ="150px"  src="images/Coursera F7W4V2VVFQVC-1.png" /></a>
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%204DZN7QFRQHCG-1.png" target="_blank"> <img height ="150px"  src="images/Coursera 4DZN7QFRQHCG-1.png" /></a>
+      <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20SJ4EEETPKS6C-1.png" target="_blank"> <img height ="150px"  src="images/Coursera SJ4EEETPKS6C-1.png" /></a>
+      <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20XCCGZQPLWV2X-1.png" target="_blank"> <img height ="150px"  src="images/Coursera XCCGZQPLWV2X-1.png" /></a>
+      <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20ZK3NEZN3G6FV-1.png" target="_blank"> <img height ="150px"  src="images/Coursera ZK3NEZN3G6FV-1.png" /></a>
+      <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20J778V4ESMKDQ-1.png" target="_blank"> <img height ="150px"  src="images/Coursera J778V4ESMKDQ-1.png" /></a>
+      <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20J8G2Q6YETJW7-1.png" target="_blank"> <img height ="150px"  src="images/Coursera J8G2Q6YETJW7-1.png" /></a>
+      <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20HBZBV2KNXCPW-1.png" target="_blank"> <img height ="150px"  src="images/Coursera HBZBV2KNXCPW-1.png" /></a>
   </div>
     <br>
 </details>

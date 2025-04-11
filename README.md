@@ -4,9 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F71E&width=435&lines=Hi+Welcome+to+Pham+Duc+Dat's+profile;From+Passerelles+Numériques+Vietnam" alt="Typing SVG" /></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F71E&width=435&lines=Welcome+to+Pham+Duc+Dat's+profile;Passerelles+Num%C3%A9riques+Vietnam" alt="Typing SVG" /></a>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" alt="A professional animation coder gif"/>

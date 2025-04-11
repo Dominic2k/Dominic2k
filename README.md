@@ -3,8 +3,17 @@
   Passerelles Numériques Vietnam
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BF700&width=435&lines=Hi%2Cwelcome+to+Pham+Duc+Dat's+profile;From+Passerelles+Num%C3%A9riques+Vietnam" alt="Typing SVG" /></a>
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" alt="A professional animation coder gif"/>
+</div>
 
-  <div align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dominic2k&label=Profile%20views&color=0e75b6&style=flat" alt="dominic2k" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dominic2k&theme=matrix&column=3" alt="dominic2k" /></a> </p>
+
+<div align="center">
       <h2>My various diplomas, certificates</h2>
     <br>
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20F7W4V2VVFQVC-1.png" target="_blank"> <img height ="150px"  src="images/Coursera F7W4V2VVFQVC-1.png" /></a>
@@ -17,15 +26,6 @@
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20HBZBV2KNXCPW-1.png" target="_blank"> <img height ="150px"  src="images/Coursera HBZBV2KNXCPW-1.png" /></a>
   </div>
     <br>
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BF700&width=435&lines=Hi%2Cwelcome+to+Pham+Duc+Dat's+profile;From+Passerelles+Num%C3%A9riques+Vietnam" alt="Typing SVG" /></a>
-</div>
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" alt="A professional animation coder gif"/>
-</div>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dominic2k&label=Profile%20views&color=0e75b6&style=flat" alt="dominic2k" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dominic2k&theme=matrix&column=3" alt="dominic2k" /></a> </p>
 
 🎧 Spotify Playing 🎧
 

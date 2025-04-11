@@ -27,10 +27,6 @@
   </div>
     <br>
 
-🎧 Spotify Playing 🎧
-
-<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />
-
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">

@@ -6,7 +6,7 @@
 
   <div align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-      <h2>My various diplomas, certificates </h2>
+      My various diplomas, certificates
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20F7W4V2VVFQVC-1.png" target="_blank"> <img height ="150px"  src="images/Coursera F7W4V2VVFQVC-1.png" /></a>
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%204DZN7QFRQHCG-1.png" target="_blank"> <img height ="150px"  src="images/Coursera 4DZN7QFRQHCG-1.png" /></a>

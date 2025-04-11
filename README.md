@@ -3,6 +3,34 @@
   Passerelles Numériques Vietnam
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
+
+<details open>
+<summary align="center"><h2><img alt="GIF" src="./Image/trophy.gif" width="25px"> My various diplomas, certificates </h2></summary>
+  <div align="center">
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_17.png" target="_blank"> <img height ="150px"  src="./Image/diploma_17.png" /></a>
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_16.png" target="_blank"> <img height ="150px"  src="./Image/diploma_16.png" /></a>
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_15.png" target="_blank"> <img height ="150px"  src="./Image/diploma_15.png" /></a>
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_14.png" target="_blank"> <img height ="150px"  src="./Image/diploma_14.png" /></a>
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_13.png" target="_blank"> <img height ="150px"  src="./Image/diploma_13.png" /></a>
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_12.png" target="_blank"> <img height ="150px"  src="./Image/diploma_12.png" /></a>
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_11.png" target="_blank"> <img height ="150px"  src="./Image/diploma_11.png" /></a>
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_10.png" target="_blank"> <img height ="150px"  src="./Image/diploma_10.png" /></a>
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_9.png" target="_blank"> <img height ="150px"  src="./Image/diploma_9.png" /></a>
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_8.png" target="_blank"> <img height ="150px"  src="./Image/diploma_8.png" /></a>
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_7.png" target="_blank"> <img height ="150px"  src="./Image/diploma_7.png" /></a>
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_6.png" target="_blank"> <img height ="150px"  src="./Image/diploma_6.png" /></a>
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_5.png" target="_blank"> <img height ="150px"  src="./Image/diploma_5.5.png" /></a>
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_5.png" target="_blank"> <img height ="150px"  src="./Image/diploma_5.png" /></a>
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_4.png" target="_blank"> <img height ="150px"  src="./Image/diploma4.5.png" /></a>
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_4.png" target="_blank"> <img height ="150px"  src="./Image/diploma_4.png" /></a>
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_3.png" target="_blank"> <img height ="150px"  src="./Image/diploma_3.png" /></a>
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_2.png" target="_blank"> <img height ="150px"  src="./Image/diploma_2.png" /></a>
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_1.png" target="_blank"> <img height ="150px"  src="./Image/diploma_1.png" /></a>
+      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_0.png" target="_blank"> <img height ="150px"  src="./Image/diploma_0.png" /></a>
+  </div>
+    <br>
+</details>
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BF700&width=435&lines=Hi%2Cwelcome+to+Pham+Duc+Dat's+profile;From+Passerelles+Num%C3%A9riques+Vietnam" alt="Typing SVG" /></a>
 </div>

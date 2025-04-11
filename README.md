@@ -4,9 +4,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<details open>
-<summary align="center"><h2>My various diplomas, certificates </h2></summary>
   <div align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+      <h2>My various diplomas, certificates </h2>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20F7W4V2VVFQVC-1.png" target="_blank"> <img height ="150px"  src="images/Coursera F7W4V2VVFQVC-1.png" /></a>
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%204DZN7QFRQHCG-1.png" target="_blank"> <img height ="150px"  src="images/Coursera 4DZN7QFRQHCG-1.png" /></a>
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20SJ4EEETPKS6C-1.png" target="_blank"> <img height ="150px"  src="images/Coursera SJ4EEETPKS6C-1.png" /></a>
@@ -17,8 +18,6 @@
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20HBZBV2KNXCPW-1.png" target="_blank"> <img height ="150px"  src="images/Coursera HBZBV2KNXCPW-1.png" /></a>
   </div>
     <br>
-</details>
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BF700&width=435&lines=Hi%2Cwelcome+to+Pham+Duc+Dat's+profile;From+Passerelles+Num%C3%A9riques+Vietnam" alt="Typing SVG" /></a>
 </div>

@@ -16,6 +16,7 @@
 <div align="center">
       <h2>My various diplomas, certificates</h2>
     <br>
+      <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20N13PLAXKZ9UD-1.png" target="_blank"> <img height ="150px"  src="images/Coursera N13PLAXKZ9UD-1.png" /></a>
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20F7W4V2VVFQVC-1.png" target="_blank"> <img height ="150px"  src="images/Coursera F7W4V2VVFQVC-1.png" /></a>
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%204DZN7QFRQHCG-1.png" target="_blank"> <img height ="150px"  src="images/Coursera 4DZN7QFRQHCG-1.png" /></a>
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20SJ4EEETPKS6C-1.png" target="_blank"> <img height ="150px"  src="images/Coursera SJ4EEETPKS6C-1.png" /></a>

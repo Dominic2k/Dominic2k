@@ -44,6 +44,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: "65px"/>
+      <br>Java
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
@@ -78,8 +79,8 @@
         <br>VsCode
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=reactjs" width="48" height="48" alt="Reactjs" />
-        <br>Reactjs
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="Reactjs" />
+        <br>React
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="WordPress" />

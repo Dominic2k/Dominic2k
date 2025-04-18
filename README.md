@@ -78,8 +78,8 @@
         <br>VsCode
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="WordPress" />
-        <br>Discord
+        <img src="https://skillicons.dev/icons?i=reactjs" width="48" height="48" alt="Reactjs" />
+        <br>Reactjs
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="WordPress" />

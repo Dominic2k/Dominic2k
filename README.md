@@ -15,7 +15,7 @@
 <div align="center">
       <h2>My various diplomas, certificates</h2>
     <br>
-      <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/images/UC-71c1a36a-c498-460f-965f-4a76f0466bea.png" target="_blank"> <img height ="150px"  src="images/images/UC-71c1a36a-c498-460f-965f-4a76f0466bea.png" /></a>
+      <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/UC-71c1a36a-c498-460f-965f-4a76f0466bea.png" target="_blank"> <img height ="150px"  src="images/UC-71c1a36a-c498-460f-965f-4a76f0466bea.png" /></a>
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/UC-71c1a36a-c498-460f-965f-4a76f0466bea.pdf.png" target="_blank"> <img height ="150px"  src="images/UC-71c1a36a-c498-460f-965f-4a76f0466bea.pdf.png" /></a>
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20N13PLAXKZ9UD-1.png" target="_blank"> <img height ="150px"  src="images/Coursera N13PLAXKZ9UD-1.png" /></a>
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20F7W4V2VVFQVC-1.png" target="_blank"> <img height ="150px"  src="images/Coursera F7W4V2VVFQVC-1.png" /></a>

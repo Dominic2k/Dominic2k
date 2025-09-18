@@ -110,9 +110,6 @@
   <a href="https://t.me/dat_pahm2503" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
   &nbsp;&nbsp;
 
-# 📊GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dominic2k&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-
 # 📊Time coding last 30 days:
 <img align="center" width="500px" src="https://wakatime.com/share/@Dimonic2kJs/4e415fc8-c70b-48d1-8ef9-006f8d7208c8.png" />
 <br></br>

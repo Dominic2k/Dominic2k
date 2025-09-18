@@ -28,7 +28,7 @@
     </div>
     <br>
   <div align="center">
-    <h2>Udemy courses</h2>
+    <h2>Coursera courses</h2>
     <br>
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20N13PLAXKZ9UD-1.png" target="_blank"> <img height ="150px"  src="images/Coursera N13PLAXKZ9UD-1.png" /></a>
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Coursera%20F7W4V2VVFQVC-1.png" target="_blank"> <img height ="150px"  src="images/Coursera F7W4V2VVFQVC-1.png" /></a>

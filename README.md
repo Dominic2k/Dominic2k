@@ -111,10 +111,10 @@
   &nbsp;&nbsp;
 
 # 📊Time coding last 30 days:
-<img align="center" width="500px" src="https://wakatime.com/share/@Dimonic2kJs/4e415fc8-c70b-48d1-8ef9-006f8d7208c8.png" />
+<img align="center" width="500px" src="https://wakatime.com/share/@Dominic2k/4e415fc8-c70b-48d1-8ef9-006f8d7208c8.png" />
 <br></br>
-<img align="center" width="400px" src="https://wakatime.com/share/@Dimonic2kJs/9387e7b3-b222-4280-a3e6-0191f912d093.png" />
-<img align="center" width="400px" src="https://wakatime.com/share/@Dimonic2kJs/3a68f3db-5cfd-4c0f-b732-05fcc18666fd.png" />
+<img align="center" width="400px" src="https://wakatime.com/share/@Dominic2k/9387e7b3-b222-4280-a3e6-0191f912d093.png" />
+<img align="center" width="400px" src="https://wakatime.com/share/@Dominic2k/3a68f3db-5cfd-4c0f-b732-05fcc18666fd.png" />
 
 
 

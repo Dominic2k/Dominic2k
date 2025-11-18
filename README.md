@@ -12,7 +12,6 @@
 </div>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=dominic2k&label=Profile%20views&color=0e75b6&style=flat" alt="dominic2k" />
-  ![Code Time](./badges/code-time.svg)
 </p>
 
 

@@ -2,40 +2,85 @@ name: Update WakaTime Badge
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *"   # update mỗi giờ
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
-      - name: Fetch WakaTime data
+      - name: Prepare dir
         run: |
           mkdir -p badges
-          curl -s "https://wakatime.com/api/v1/users/current/stats/all_time?api_key=${{ secrets.WAKATIME_API_KEY }}" > stats.json
+
+      - name: Fetch WakaTime data
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          curl -s "https://wakatime.com/api/v1/users/current/stats/all_time?api_key=${WAKATIME_API_KEY}" -o stats.json || true
+          echo "---- stats.json head ----"
+          head -n 40 stats.json || true
 
       - name: Parse total time
         id: parse
         run: |
-          TOTAL=$(jq -r '.data.grand_total.text' stats.json)
+          TOTAL=$(jq -r '.data.grand_total.text // empty' stats.json)
+          echo "::debug::Parsed TOTAL='$TOTAL'"
+          if [ -z "$TOTAL" ]; then
+            echo "ERROR: Could not parse TOTAL from stats.json"
+            exit 1
+          fi
           echo "total=$TOTAL" >> $GITHUB_OUTPUT
 
-      - name: Generate Badge
+      - name: Generate Badge SVG (URL-encode with python)
         run: |
           TOTAL="${{ steps.parse.outputs.total }}"
+          echo "TOTAL raw: [$TOTAL]"
           ENCODED=$(python3 - <<EOF
-import urllib.parse
-print(urllib.parse.quote("$TOTAL"))
+import urllib.parse, sys
+s = sys.argv[1]
+print(urllib.parse.quote(s, safe=''))
 EOF
+"$TOTAL"
 )
-          echo "Encoded = $ENCODED"
-          curl -s "https://img.shields.io/badge/Code%20Time-$ENCODED-blue" > badges/code-time.svg
+          echo "Encoded: $ENCODED"
+          SHIELDS_URL="https://img.shields.io/badge/Code%20Time-$ENCODED-blue.svg"
+          echo "Requesting: $SHIELDS_URL"
+          curl -sSL "$SHIELDS_URL" -o badges/code-time.svg || true
+          echo "---- badge file info ----"
+          ls -l badges || true
+          echo "---- badge head ----"
+          head -n 10 badges/code-time.svg || true
 
-      - name: Commit badge
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Update WakaTime badge"
-          file_pattern: badges/code-time.svg
+      - name: Validate badge is svg
+        run: |
+          FILE=b`adges/code-time.svg`; true
+          if [ -f badges/code-time.svg ]; then
+            if grep -q '<svg' badges/code-time.svg; then
+              echo "Badge looks like an SVG."
+            else
+              echo "Badge does NOT contain <svg> — here's the first 40 lines:"
+              head -n 40 badges/code-time.svg
+              exit 1
+            fi
+          else
+            echo "Badge file missing!"
+            exit 1
+          fi
+
+      - name: Commit and push badge (if changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add badges/code-time.svg || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update WakaTime badge"
+            git push origin HEAD:${{ github.ref_name }}
+          fi

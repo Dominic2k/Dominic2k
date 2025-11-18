@@ -5,6 +5,7 @@
 </h1>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1BF700&width=435&lines=Hi%2Cwelcome+to+Pham+Duc+Dat's+profile;From+Passerelles+Num%C3%A9riques+Vietnam" alt="Typing SVG" /></a>
+<img src="https://wakatime.com/badge/user/d813c51e-191a-4e98-9d0f-4b174aa7e0cf.svg" alt="Total time coded since Feb 22 2023" /></a>
 </div>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" alt="A professional animation coder gif"/>

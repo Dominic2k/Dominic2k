@@ -2,19 +2,22 @@ name: Update WakaTime Badge
 
 on:
   schedule:
-    - cron: "0 * * * *"  # update mỗi giờ
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
+      - uses: actions/checkout@v4
+
       - name: Fetch WakaTime data
         run: |
           mkdir -p badges
           curl -s "https://wakatime.com/api/v1/users/current/stats/all_time?api_key=${{ secrets.WAKATIME_API_KEY }}" > stats.json
 
-      - name: Parse Code Time
+      - name: Parse total time
         id: parse
         run: |
           TOTAL=$(jq -r '.data.grand_total.text' stats.json)
@@ -23,10 +26,15 @@ jobs:
       - name: Generate Badge
         run: |
           TOTAL="${{ steps.parse.outputs.total }}"
-          ENCODED=$(echo $TOTAL | sed -e 's/ /%20/g')
+          ENCODED=$(python3 - <<EOF
+import urllib.parse
+print(urllib.parse.quote("$TOTAL"))
+EOF
+)
+          echo "Encoded = $ENCODED"
           curl -s "https://img.shields.io/badge/Code%20Time-$ENCODED-blue" > badges/code-time.svg
 
-      - name: Upload badge to repo
+      - name: Commit badge
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update WakaTime badge"

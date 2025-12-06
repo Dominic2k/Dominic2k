@@ -28,6 +28,7 @@
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/UC-71c1a36a-c498-460f-965f-4a76f0466beb.png" target="_blank"> <img height ="150px"  src="images/UC-71c1a36a-c498-460f-965f-4a76f0466beb.png" /></a>
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/UC-71c1a36a-c498-460f-965f-4a76f0466bea.png" target="_blank"> <img height ="150px"  src="images/UC-71c1a36a-c498-460f-965f-4a76f0466bea.png" /></a>
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/UC-71c1a36a-c498-460f-965f-4a76f0466bea.pdf.png" target="_blank"> <img height ="150px"  src="images/UC-71c1a36a-c498-460f-965f-4a76f0466bea.pdf.png" /></a>
+      <a href="[https://github.com/Dominic2k/Dominic2k/blob/main/images/UC-71c1a36a-c498-460f-965f-4a76f0466bea.pdf.png](https://raw.githubusercontent.com/Dominic2k/Dominic2k/refs/heads/main/contributions.svg)" target="_blank"> <img height ="150px"  src="[images/UC-71c1a36a-c498-460f-965f-4a76f0466bea.pdf.png](https://raw.githubusercontent.com/Dominic2k/Dominic2k/refs/heads/main/contributions.svg)" /></a>
     </div>
     <br>
   <div align="center">

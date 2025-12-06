@@ -28,8 +28,6 @@
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/UC-71c1a36a-c498-460f-965f-4a76f0466beb.png" target="_blank"> <img height ="150px"  src="images/UC-71c1a36a-c498-460f-965f-4a76f0466beb.png" /></a>
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/UC-71c1a36a-c498-460f-965f-4a76f0466bea.png" target="_blank"> <img height ="150px"  src="images/UC-71c1a36a-c498-460f-965f-4a76f0466bea.png" /></a>
       <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/UC-71c1a36a-c498-460f-965f-4a76f0466bea.pdf.png" target="_blank"> <img height ="150px"  src="images/UC-71c1a36a-c498-460f-965f-4a76f0466bea.pdf.png" /></a>
-      <a href="[https://github.com/Dominic2k/Dominic2k/blob/main/images/UC-71c1a36a-c498-460f-965f-4a76f0466bea.pdf.png](https://raw.githubusercontent.com/Dominic2k/Dominic2k/refs/heads/main/contributions.svg)" target="_blank"> <img height ="150px"  src="[images/UC-71c1a36a-c498-460f-965f-4a76f0466bea.pdf.png](https://raw.githubusercontent.com/Dominic2k/Dominic2k/refs/heads/main/contributions.svg)" /></a>
-    </div>
     <br>
   <div align="center">
     <h2>Coursera courses</h2>
@@ -119,6 +117,7 @@
 <br></br>
 <img align="center" width="400px" src="https://wakatime.com/share/@Dominic2k/9387e7b3-b222-4280-a3e6-0191f912d093.png" />
 <img align="center" width="400px" src="https://wakatime.com/share/@Dominic2k/3a68f3db-5cfd-4c0f-b732-05fcc18666fd.png" />
+<img align="center" src="https://raw.githubusercontent.com/Dominic2k/Dominic2k/refs/heads/main/contributions.svg" />
 
 
 

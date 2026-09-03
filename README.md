@@ -45,6 +45,23 @@
   </div>
     <br>
 
+  <div align="center">
+  <h2>Others</h2>
+  <br>
+    <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Screenshot%202026-05-20%20085120.png" target="_blank"> <img height ="150px"  src="images/Screenshot 2026-05-20 085120.png" /></a>
+    <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Screenshot%202026-05-20%20085548.png" target="_blank"> <img height ="150px"  src="images/Screenshot 2026-05-20 085548.png" /></a>
+    <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Screenshot%202026-06-02%20102113.png" target="_blank"> <img height ="150px"  src="images/Screenshot 2026-06-02 102113.png" /></a>
+    <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Screenshot%202026-06-02%20102213.png" target="_blank"> <img height ="150px"  src="images/Screenshot 2026-06-02 102213.png" /></a>
+    <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Screenshot%202026-06-02%20103833.png" target="_blank"> <img height ="150px"  src="images/Screenshot 2026-06-02 103833.png" /></a>
+    <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Screenshot%202026-06-02%20133202.png" target="_blank"> <img height ="150px"  src="images/Screenshot 2026-06-02 133202.png" /></a>
+    <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Screenshot%202026-06-30%20042103.png" target="_blank"> <img height ="150px"  src="images/Screenshot 2026-06-30 042103.png" /></a>
+    <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Screenshot%202026-06-30%20043945.png" target="_blank"> <img height ="150px"  src="images/Screenshot 2026-06-30 043945.png" /></a>
+    <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Screenshot%202026-06-30%20044635.png" target="_blank"> <img height ="150px"  src="images/Screenshot 2026-06-30 044635.png" /></a>
+    <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Screenshot%202026-06-30%20044903.png" target="_blank"> <img height ="150px"  src="images/Screenshot 2026-06-30 044903.png" /></a>
+    <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Screenshot%202026-06-30%20045216.png" target="_blank"> <img height ="150px"  src="images/Screenshot 2026-06-30 045216.png" /></a>
+    <a href="https://github.com/Dominic2k/Dominic2k/blob/main/images/Screenshot%202026-06-30%20050136.png" target="_blank"> <img height ="150px"  src="images/Screenshot 2026-06-30 050136.png" /></a>
+  </div>
+
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
